@@ -1,0 +1,6 @@
+Part,Value,Device,Package,Description,
+C1,0.1uF,0.1UF-0603-100V-10%,0603,"0.1µF ceramic capacitors",
+C2,0.1uF,0.1UF-0603-100V-10%,0603,"0.1µF ceramic capacitors",
+IC1,OPA1612AIDR,OPA1612AIDR,SOIC127P600X175-8N,"SoundPlus Audio Operational Amplifier with 1.1nV/Hz Noise, Low THD and Precision",
+JP1,PINHD-1X5,PINHD-1X5,1X05,"PIN HEADER",
+JP2,PINHD-1X5,PINHD-1X5,1X05,"PIN HEADER",
