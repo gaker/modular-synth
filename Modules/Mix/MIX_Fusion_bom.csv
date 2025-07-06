@@ -1,0 +1,23 @@
+Part,Value,Device,Package,Description,CATEGORY,DATASHEET,DESCRIPTION,HEIGHT,MANUFACTURER,MANUFACTURER_NAME,MANUFACTURER_PART_NUMBER,MOUSER_PART_NUMBER,MOUSER_PRICE-STOCK,MPN,OPERATING_TEMPERATURE,PACKAGE_SIZE,PACKAGE_TYPE,PART_STATUS,PROD_ID,ROHS,SERIES,SUBCATEGORY,TEMPERATURE_COEFFICIENT,THERMALLOSS,TOLERANCE,TYPE,VALUE
+C1,10uf,ECE-A1EN100U,CAPPRD200W55D500H1200,"Panasonic 10uF 25 V Aluminium Electrolytic Capacitor, SU Series 1000h 5 x 11mm",,,"Panasonic 10uF 25 V Aluminium Electrolytic Capacitor"," SU Series 1000h 5 x 11mm",12mm,,Panasonic,ECE-A1EN100U,667-ECE-A1EN100U,https://www.mouser.co.uk/ProductDetail/Panasonic/ECE-A1EN100U?qs=rMMd5vBiahpHy%2F1SRMUp7g%3D%3D,,,,,,,,,,,,,
+C2,10uf,ECE-A1EN100U,CAPPRD200W55D500H1200,"Panasonic 10uF 25 V Aluminium Electrolytic Capacitor, SU Series 1000h 5 x 11mm",,,"Panasonic 10uF 25 V Aluminium Electrolytic Capacitor"," SU Series 1000h 5 x 11mm",12mm,,Panasonic,ECE-A1EN100U,667-ECE-A1EN100U,https://www.mouser.co.uk/ProductDetail/Panasonic/ECE-A1EN100U?qs=rMMd5vBiahpHy%2F1SRMUp7g%3D%3D,,,,,,,,,,,,,
+C3,0.1uF,0.1UF-0402-16V-10%,0402,"0.1µF ceramic capacitors",,,,,,,,,,,,,,,CAP-12416,,,,,,,,0.1uF
+C4,0.1uF,0.1UF-0402-16V-10%,0402,"0.1µF ceramic capacitors",,,,,,,,,,,,,,,CAP-12416,,,,,,,,0.1uF
+IC1,TL072BIDT,TL072BIDT,SOIC127P600X175-8N,"STMICROELECTRONICS - TL072BIDT - Operational Amplifier, 2 Amplifier, 4 MHz, 16 V/s, 6V to 36V, SOIC, 8 Pins",,,"STMICROELECTRONICS - TL072BIDT - Operational Amplifier"," 2 Amplifier"," 4 MHz"," 16 V/s"," 6V to 36V"," SOIC"," 8 Pins",1.75mm,,STMicroelectronics,TL072BIDT,511-TL072BIDT,https://www.mouser.co.uk/ProductDetail/STMicroelectronics/TL072BIDT?qs=%252BsFu707QyFwATnhGYo0v%252BA%3D%3D,,,,,,,,
+INV_OUT,THONKICONNNEW,THONKICONNNEW,WQP-PJ301M-12_JACK,"3.5mm socket for Eurorack modular synths",,,,,,,,,,,,,,,,,,,,,,,
+IN_1,THONKICONNNEW,THONKICONNNEW,WQP-PJ301M-12_JACK,"3.5mm socket for Eurorack modular synths",,,,,,,,,,,,,,,,,,,,,,,
+IN_2,THONKICONNNEW,THONKICONNNEW,WQP-PJ301M-12_JACK,"3.5mm socket for Eurorack modular synths",,,,,,,,,,,,,,,,,,,,,,,
+IN_3,THONKICONNNEW,THONKICONNNEW,WQP-PJ301M-12_JACK,"3.5mm socket for Eurorack modular synths",,,,,,,,,,,,,,,,,,,,,,,
+OUT,THONKICONNNEW,THONKICONNNEW,WQP-PJ301M-12_JACK,"3.5mm socket for Eurorack modular synths",,,,,,,,,,,,,,,,,,,,,,,
+R1,120k,R_CHIP-0603(1608-METRIC),RESC1608X60,"Resistor Fixed - Generic",Resistors,,"Chip Resistor 1.60 X 0.82 X 0.60 mm body 0603(1608-METRIC) Package",,,,,,,,,0603,SMD,,,,,,,,,,
+R2,120k,R_CHIP-0603(1608-METRIC),RESC1608X60,"Resistor Fixed - Generic",Resistors,,"Chip Resistor 1.60 X 0.82 X 0.60 mm body 0603(1608-METRIC) Package",,,,,,,,,0603,SMD,,,,,,,,,,
+R3,120k,R_CHIP-0603(1608-METRIC),RESC1608X60,"Resistor Fixed - Generic",Resistors,,"Chip Resistor 1.60 X 0.82 X 0.60 mm body 0603(1608-METRIC) Package",,,,,,,,,0603,SMD,,,,,,,,,,
+R4,120k,R_CHIP-0603(1608-METRIC),RESC1608X60,"Resistor Fixed - Generic",Resistors,,"Chip Resistor 1.60 X 0.82 X 0.60 mm body 0603(1608-METRIC) Package",,,,,,,,,0603,SMD,,,,,,,,,,
+R5,120k,R_CHIP-0603(1608-METRIC),RESC1608X60,"Resistor Fixed - Generic",Resistors,,"Chip Resistor 1.60 X 0.82 X 0.60 mm body 0603(1608-METRIC) Package",,,,,,,,,0603,SMD,,,,,,,,,,
+R6,120k,R_CHIP-0603(1608-METRIC),RESC1608X60,"Resistor Fixed - Generic",Resistors,,"Chip Resistor 1.60 X 0.82 X 0.60 mm body 0603(1608-METRIC) Package",,,,,,,,,0603,SMD,,,,,,,,,,
+R7,1k,R_CHIP-0402(1005-METRIC),RESC1005X40,"Resistor Fixed - Generic",Resistors,,"Chip Resistor 1.05 X 0.54 X 0.40 mm body 0402(1005-METRIC) Package",,,,,,,,,0402,SMD,,,,,,,,,,
+R8,1k,R_CHIP-0402(1005-METRIC),RESC1005X40,"Resistor Fixed - Generic",Resistors,,"Chip Resistor 1.05 X 0.54 X 0.40 mm body 0402(1005-METRIC) Package",,,,,,,,,0402,SMD,,,,,,,,,,
+SV1,EURO_POWER_HEADERREGULAR,EURO_POWER_HEADERREGULAR,EURO_POWER_HEADER,"Power Header",,,,,,,,,,,,,,,,,,,,,,,
+VR1,50k,9MM_SNAP-IN_POT_,9MM_SNAP-IN_POT,"9mm vertical snap-in pot, Alpha / Panasonic style",,,,,,,,,,,,,,,,,,,,,,,
+VR2,50k,9MM_SNAP-IN_POT_,9MM_SNAP-IN_POT,"9mm vertical snap-in pot, Alpha / Panasonic style",,,,,,,,,,,,,,,,,,,,,,,
+VR3,50k,9MM_SNAP-IN_POT_,9MM_SNAP-IN_POT,"9mm vertical snap-in pot, Alpha / Panasonic style",,,,,,,,,,,,,,,,,,,,,,,
