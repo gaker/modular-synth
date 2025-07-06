@@ -1,0 +1,8 @@
+﻿Comment,Designator,Footprint,JLCPCB Part #（optional）
+220uf,"C1,C2,C6","SMD,D8xL10.5mm",C97814
+0.1uf,"C3,C4,C5,C11",0603,C14663
+14mΩ ±25% 30Ω@100MHz 0805 Ferrite Beads ROHS,"FB1,FB2,FB3",0805,C16903
+"1A 60dB@(120Hz) Fixed 3.3V Positive electrode 12V SOT-223 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS",IC2,SOT-223,C347222
+10uF 16V 3Ω@100kHz ±10% CASE-A-3216-18(mm) Tantalum Capacitors ROHS,"C9,C10",CASE-A-3216-18(mm),C7171
+,,,
+,,,
