@@ -21,7 +21,7 @@ Uses a ``TE-Connectivity-AMP/640456-6`` connector to supply power to the board. 
 
 ## Cost
 
-Manufactured at [JLCPCB](https://www.jlcpcb.com) in July of 2005 with PCBA assembly (see Production directory for more info).
+Manufactured at [JLCPCB](https://www.jlcpcb.com) in July of 2025 with PCBA assembly (see Production directory for more info).
 
 *PCBA for 5 boards*
 
